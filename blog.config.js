@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Bryan Lue',
   email: 'hello@bryanlue.me',
   link: 'https://bryanlue.vercel.app',
-  description: 'Hello! I am Bryan, a student based in Kuala Lumpur, Malaysia. On this site I will be sharing my opinions on various world events, technology related tips, and various interesting ideas. ',
+  description: 'Hello! I am Bryan, a student based in Kuala Lumpur. On this site I will be sharing my opinions on world events, technology related tips, and various ideas. ',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
